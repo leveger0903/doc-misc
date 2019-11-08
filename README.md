@@ -14,3 +14,7 @@
 * Gitbook & Markdown
   * [基本與操作](docs/gitbook-setup.md)
   * [元素](docs/gitbook-elements.md)
+* Synology Nas & Gitlab CE
+  * [基本操作](docs/nas-setup.md)
+  * [建立群組](docs/nas-create-group.md)
+  * [建立專案與轉移](docs/nas-create-group-project.md)
