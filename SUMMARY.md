@@ -7,6 +7,8 @@
   * [LINE NOTIFY](docs/line-notify.md)
   * [LINE MESSAGE](docs/line-message.md)
 * React
-  * [基本](docs/react-basic.md)
-  * [進階](docs/react-advanced.md)
-
+  * [基礎](docs/react-basic.md)
+  * [代碼分割](docs/react-advanced.md)
+* Gitbook & Markdown
+  * [基本與操作](docs/gitbook-setup.md)
+  * [元素](docs/gitbook-elements.md)
