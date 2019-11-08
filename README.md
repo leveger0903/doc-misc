@@ -12,7 +12,11 @@
   * [基礎](docs/react-basic.md)
   * [代碼分割](docs/react-advanced.md)
 * Gitbook & Markdown
+<<<<<<< HEAD
   * [基本操作](docs/gitbook-setup.md)
+=======
+  * [基本與操作](docs/gitbook-setup.md)
+>>>>>>> 2da796af023b4ebbfbe59f4c2e0954b8cabfa7d6
   * [元素](docs/gitbook-elements.md)
 * Synology Nas & Gitlab CE
   * [基本操作](docs/nas-setup.md)
